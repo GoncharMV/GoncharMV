@@ -1,6 +1,14 @@
 ### Hi there 👋
 
+<a href="https://mail.google.com/mail/?view=cm&source=mailto&to=gonchar.m.v.95@gmail.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a> <a href="https://www.linkedin.com/in/gonchar-mv/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GoncharMV)](https://git.io/streak-stats)
+
 <!--
+
+
+
+
 **GoncharMV/GoncharMV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
