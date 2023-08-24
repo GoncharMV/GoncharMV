@@ -10,7 +10,7 @@ I also like to paint 🖌️ and to watch TV-shows 📺 like Star Trek
 
 - 🧑‍🤝‍🧑 If you want to talk about anything you can contact me using links below! I'm open for chat and for new friends! 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoncharMV&hide=TeX&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoncharMV&hide=TeX&layout=compact) -->
  
 ## 👾 My Projects
 | Project | Description | Status | Tools |
@@ -29,7 +29,7 @@ I also like to paint 🖌️ and to watch TV-shows 📺 like Star Trek
 <a href="https://steamcommunity.com/id/dziva90"><img src="https://img.icons8.com/fluent/96/000000/steam.png" width=70px alt="steam"/></a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GoncharMV)](https://git.io/streak-stats) 
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=GoncharMV)](https://git.io/streak-stats) -->
 
 <!--
 **GoncharMV/GoncharMV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
