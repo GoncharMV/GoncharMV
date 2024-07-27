@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://i.ibb.co/KXB7K6j/star3.png" alt="header"/> </p>
+<p align="center"> <img src="https://i.ibb.co/RCNGh9D/banner-copy.jpg" alt="header"/> </p>
 
 
 ## 👽 About Me
