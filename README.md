@@ -1,15 +1,12 @@
-<p align="center"> <img src="https://i.ibb.co/6gsWwBk/avatar-dev.jpg" alt="header" width="300px"/> </p>
-
 
 ## 👽 About Me
 Hi there! 👋 My name is Rita and I like to code~
 I also like to paint 🖌️ and to watch TV-shows 📺 like Star Trek 
 
-- 💻 I'm looking for a job as a Java-developer.
-- 🌱 I’m creating android applications
+- 💻 I'm looking for a job as a QA Automation Engineer
+- 🌱 Java, Python, Selenium, Playwright, API
 - 🧑‍🤝‍🧑 If you want to talk about anything you can contact me using links below! I'm open for chat and for new friends! 
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoncharMV&hide=TeX&layout=compact) -->
  
 ## 👾 My Projects
 | Project | Description | Status | Tools |
@@ -28,11 +25,6 @@ I also like to paint 🖌️ and to watch TV-shows 📺 like Star Trek
 <p align="center">
 <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=gonchar.m.v.95@gmail.com" ><img src="https://img.icons8.com/color/96/000000/gmail.png" width=70px alt="email"/></a>
 <a href="https://www.linkedin.com/in/gonchar-mv/" ><img src="https://img.icons8.com/color/96/000000/linkedin.png" width=70px alt="linkedin"/></a>
-<a href="https://grettastic.itch.io/"><img src="https://static-00.iconduck.com/assets.00/itch-io-icon-2048x2048-i6hzclad.png" width=70px alt="itchio"/></a>
 </p>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O0KOS9T)
-
-
-
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=GoncharMV)](https://git.io/streak-stats) -->
+Most professional work is in private [GitLab](https://gitlab.marpla.ru/mgonchar) repositories due to NDA.
